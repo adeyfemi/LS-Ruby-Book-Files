@@ -1,0 +1,1 @@
+ print "calling a method called calculate_product that requires two arguments, but only providing one argument."
